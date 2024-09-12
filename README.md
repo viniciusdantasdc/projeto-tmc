@@ -1,4 +1,5 @@
 INSTALAÇÃO DE PACOTES EM pip.ini via diretory Petrobras == pip config set global.trusted-host "nexus.petrobras.com.br"
+```
 PASTA PROJETO
 python -m pip install --upgrade pip
 pip install pip setuptools wheel --upgrade > OK
@@ -21,10 +22,11 @@ git config --global push.autoSetupRemote true
 git remote add origin git@github.com:viniciusdantasdc/fleet-naval-control-CNF-.git
 git remote add origin https://github.com/viniciusdantasdc/fleet-naval-control-CNF-.git
 git remote -v > confere se conectou
-
-
+```
+```
 VSCODE
 pip install pytest
 python -m pip install mypy
 python -m install -U flake8
 python -m pip install -U autopep8
+```
