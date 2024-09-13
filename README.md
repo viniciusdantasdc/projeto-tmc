@@ -35,7 +35,13 @@ django-admin --help
 django-admin startproject nomeProjeto .
 python manage.py runserver
 config DEBUG.json
-
+>> rotas da urls.py
 
 django-admin startapp
+>>migrar urls.py para views
+>> 
+>>font awesome https://cdnjs.com/libraries/font-awesome/6.5.2
+>>icon awesome https://fontawesome.com/search?q=ship&o=r
+
+
 ```
