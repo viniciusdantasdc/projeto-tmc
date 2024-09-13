@@ -29,11 +29,12 @@ pip install pytest
 python -m pip install mypy
 python -m install -U flake8
 python -m pip install -U autopep8
-```
-```
+
+
 EXTENSÕES
 > django = troca linguagem de HTML p/ DJANGO HTML
 > icon materials thema
+```
 ```
 django-admin --help
 django-admin startproject nomeProjeto .
@@ -48,6 +49,7 @@ django-admin startapp
 >>icon awesome https://fontawesome.com/search?q=ship&o=r
 >>pasta pages em templates/nameSpace/pages
 >>pasta partials em templates/nameSpace/head.html
-
-
+>>use include para arquivos na pasta partials
+>google fonts https://fonts.google.com/selection/embed
 ```
+
