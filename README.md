@@ -30,3 +30,12 @@ python -m pip install mypy
 python -m install -U flake8
 python -m pip install -U autopep8
 ```
+```
+django-admin --help
+django-admin startproject nomeProjeto .
+python manage.py runserver
+config DEBUG.json
+
+
+django-admin startapp
+```
